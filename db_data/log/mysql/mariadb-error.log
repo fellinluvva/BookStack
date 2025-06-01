@@ -141,3 +141,4 @@ Version: '11.4.5-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  Al
 Version: '11.4.5-MariaDB-log'  socket: '/run/mysqld/mysqld.sock'  port: 3306  Alpine Linux
 2025-06-01  7:13:02 4 [Warning] Aborted connection 4 to db: 'unconnected' user: 'unauthenticated' host: 'localhost' (This connection closed normally without authentication)
 2025-06-01  7:13:02 6 [Warning] Access denied for user 'root'@'localhost' (using password: YES)
+2025-06-01  7:13:02 7 [Warning] Aborted connection 7 to db: 'unconnected' user: 'unauthenticated' host: 'bookstack-1.bookstack_default' (This connection closed normally without authentication)
