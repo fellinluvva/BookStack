@@ -1,0 +1,8 @@
+172.23.0.1 - - [01/Jun/2025:06:52:33 +0000] "GET / HTTP/1.1" 302 366 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+172.23.0.1 - - [01/Jun/2025:06:52:35 +0000] "GET /login HTTP/1.1" 200 8648 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+172.23.0.1 - - [01/Jun/2025:06:52:35 +0000] "GET /dist/styles.css?version=v25.02.5 HTTP/1.1" 200 134783 "http://localhost:8080/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+172.23.0.1 - - [01/Jun/2025:06:52:35 +0000] "GET /logo.png HTTP/1.1" 200 3256 "http://localhost:8080/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+172.23.0.1 - - [01/Jun/2025:06:52:35 +0000] "GET /dist/app.js?version=v25.02.5 HTTP/1.1" 200 183664 "http://localhost:8080/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+172.23.0.1 - - [01/Jun/2025:06:52:36 +0000] "GET /icon-32.png HTTP/1.1" 200 746 "http://localhost:8080/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+172.23.0.1 - - [01/Jun/2025:06:52:36 +0000] "GET /manifest.json HTTP/1.1" 200 788 "http://localhost:8080/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+172.23.0.1 - - [01/Jun/2025:06:52:36 +0000] "GET /icon-180.png HTTP/1.1" 200 5744 "http://localhost:8080/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
